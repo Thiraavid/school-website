@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+body { @apply text-gray-800; }
+a { color: inherit; text-decoration: none; }
